@@ -1,0 +1,1 @@
+# Minimal Opensearch cluster
